@@ -54,17 +54,6 @@ It enhances recommendation quality by applying filters such as **genre, rating, 
    * Sort by similarity and rating
    * Display final recommendations
 
-
-
- Project Structure
-
-
-├── data/                 # Dataset files
-├── notebook.ipynb       # Main implementation
-├── app.py               # (Optional) Streamlit app
-├── README.md
-
-
  Objective
 The goal of this project is to build a **real-world recommendation system** that:
 
@@ -87,6 +76,3 @@ Dataset: MovieLens / TMDB
 
 
 
- License
-
-This project is open-source and available under the MIT License.
